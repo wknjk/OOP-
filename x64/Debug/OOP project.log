@@ -1,0 +1,11 @@
+﻿  lines.cpp
+  network.cpp
+C:\Users\korisnik\Downloads\z treci sem\oop\vezbe moji kodovi\domaci\bosch NN\OOP project\OOP project\network.cpp(524,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korisnik\Downloads\z treci sem\oop\vezbe moji kodovi\domaci\bosch NN\OOP project\OOP project\network.cpp(550,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  stations.cpp
+  Strategy.cpp
+  Terminal.cpp
+C:\Users\korisnik\Downloads\z treci sem\oop\vezbe moji kodovi\domaci\bosch NN\OOP project\OOP project\Terminal.cpp(25,18): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Generating Code...
+  OOP project.vcxproj -> C:\Users\korisnik\Downloads\z treci sem\oop\vezbe moji kodovi\domaci\bosch NN\OOP project\x64\Debug\OOP project.exe
